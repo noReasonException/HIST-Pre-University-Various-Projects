@@ -1,0 +1,42 @@
+@font-face{
+font-family:"VintageFont1";
+src:url("Streetwear.otf");
+}
+@font-face{
+font-family:"VintageFont2";
+src:url("EBGaramond-Regular.ttf");
+}
+
+body{
+    background:url("bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+div#maintext{
+background-image:rgb(0,0,0);
+background-repeat:repeat-y;
+}
+div#maintextstarter{
+background-image:url("TextBackgroundStarter.png");
+background-repeat:no-repeat;
+background-position: right;
+}
+div#maintextfull{
+background-image:url("TextBckgroundFull.png");
+background-repeat:no-repeat;
+background-position: right;
+}
+
+
+
+div#VintageFont1{
+font-family: "VintageFont1";
+}
+div#VintageFont2{
+font-family: "VintageFont2";
+}
+
