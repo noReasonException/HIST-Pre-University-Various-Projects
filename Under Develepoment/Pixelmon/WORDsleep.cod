@@ -1,0 +1,5 @@
+if "sleep" in com:
+    print("I terminate all the proccess master :3 ")
+    print("Termination Completed.Press Any key to close")
+    input()
+    

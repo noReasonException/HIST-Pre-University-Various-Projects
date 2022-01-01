@@ -1,0 +1,9 @@
+if "add" in com:
+        printsum = 0
+        for check in pin:
+            try:
+                d = int(check)
+                printsum+=d
+            except:
+                pass
+        clever_answer(printsum,com)

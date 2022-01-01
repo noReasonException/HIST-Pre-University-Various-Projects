@@ -1,0 +1,2 @@
+This programm helps you to learn and understand EVERY command of Windows Command Prompt
+For installation press "next" button
